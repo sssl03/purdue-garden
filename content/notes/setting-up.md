@@ -69,6 +69,9 @@ tips:
 
 (note: regularly commit and push changes to github.)
 
+- on github: in the repo's `settings`, under `pages`, ensure that:
+	- github pages are enabled.
+	- source is `github actions`. // there's no need to select any workflow.
 - locally:
 	- 'missing dependency' fix
 		- when github pages tries to build the website, it may run into an error (`Cannot find module '@quartz-themes/default'`). to preemptively fix this, go to the local `quartz` folder,
