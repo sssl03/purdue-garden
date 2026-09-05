@@ -85,6 +85,7 @@ tips:
 		- update `deploy.yml`: 
 			- since we want the website to auto-update on any update (whether to quartz or content), change the default `v5` branch to `emit`.
 - on github: in the repo's `settings`, 
+	- (optional) change the default branch from `v5` to `emit`.
 	- under `pages`, ensure that:
 		- github pages are enabled.
 		- source is `github actions`. // there's no need to select any workflow.
