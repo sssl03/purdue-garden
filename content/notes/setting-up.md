@@ -4,6 +4,7 @@
 1. **quartz**:
 	- get [quartz](https://quartz.jzhao.xyz/), and follow the [installation](https://quartz.jzhao.xyz/getting-started/installation) steps. 
 		- if using a free github account, our github-repo needs to be `public`, else github won't allow us to emit the website to 'github pages'.
+		- we will initialise quartz using the `obsidian` template.
 	- create a branch `custom-quartz` branch to track all changes to quartz.
 	- customise quartz by editing [configurations](https://quartz.jzhao.xyz/configuration) in `quartz.config.yaml`. 
 		- definitely update `pageTitle`
@@ -86,4 +87,10 @@ tips:
 		- create `deploy.yml`. [instructions](https://quartz.jzhao.xyz/hosting#github-pages).
 		- update `deploy.yml`: 
 			- since we want the website to auto-update on any update (whether to quartz or content), change the default `v5` branch to `emit`.
-	- merge changed branches into `emit`; push. check github actions. if it completes successfully, the website will be emitted to github-pages.
+- on github: in the repo's `settings`, 
+	- (optional) change the default branch from `v5` to `emit`.
+	- under `pages`, ensure that:
+		- github pages are enabled.
+		- source is `github actions`. // there's no need to select any workflow.
+	- under `environments`, go into the `github-pages` environment, and change the allowed branch from `v5` to `emit`
+- locally: merge changed branches into `emit`; push. on github: check github actions. if it completes successfully, the website will be emitted to github-pages.
