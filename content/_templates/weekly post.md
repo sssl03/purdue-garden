@@ -1,22 +1,25 @@
 ---
 created:
 ---
-
-#### work: teaching
+#### teaching work
 
 [[exlab (26.3FA)]]: 
 
 [[uxfun (26.3FA)]]: 
 
+feedback from [[student pedagogy advocates program]]:
+
 [[digital garden grant]]: 
 
 [[student academic integrity (research)]]: 
-#### work: logistical
 
-#### physical activity
-
+logistical:
 #### absorbing
 
+[[impact course]]:
+
 #### writing
+
+#### physical activity
 
 #### other
