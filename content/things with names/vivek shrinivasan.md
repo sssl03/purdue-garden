@@ -1,0 +1,1 @@
+front-end developer turned interface designer. had contributed to the (rather famous) community-led covid19india (and later: covid19bharat) website during the covid-pandemic. we met in bangalore in 2024.

@@ -1,0 +1,1 @@
+2–3 week workshops which help students develop a broad aptitude for _iteratively prototyping_ experiences. developed to help [[nmd-nid]] students get warmed up at the start of their semester-long 'staging' projects. ([more info.](https://setwrite.in/teaching/202104-nid-nmd-staging.html))

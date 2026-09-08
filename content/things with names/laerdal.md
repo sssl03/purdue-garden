@@ -1,0 +1,1 @@
+[laerdal medical](https://en.wikipedia.org/wiki/Laerdal). company in norway. makes manikins for medical training contexts, along-with related software and hardware. ([[20260823]])

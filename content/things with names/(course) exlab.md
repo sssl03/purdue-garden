@@ -1,0 +1,1 @@
+'experience prototyping lab' course at [[purdue]], floated largely in response to the problem where [[purdue ux design]] students graduated with only design-research skills and very little well-resolved work in their portfolios.

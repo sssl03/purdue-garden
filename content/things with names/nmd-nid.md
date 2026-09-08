@@ -1,0 +1,1 @@
+the new media design ("nmd") programme at the [[national institute of design]], anchored by [[jignesh khakhar]], with technical support by [[arshad pathan]]

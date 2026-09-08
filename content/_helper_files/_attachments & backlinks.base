@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "_attachments"
+    order:
+      - file.name
+      - file.backlinks
+    sort:
+      - property: file.backlinks
+        direction: ASC

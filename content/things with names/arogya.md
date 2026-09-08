@@ -1,0 +1,1 @@
+restaurant in hsr layout, [[bangalore]], where we used to have breakfast back in 2024–25. 
