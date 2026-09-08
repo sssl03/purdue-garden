@@ -1,0 +1,1 @@
+student, in my [[uxfun (26.3FA)]] and [[exlab (26.3FA)]] courses in fall 2026. — 20260925

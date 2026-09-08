@@ -1,0 +1,1 @@
+after floating it as a 'ritual design' course in spring 2026, i floated a 'behaviour hacking' project under [[ourscholars]] for 2026–27, and received one year's funding for 2 students, [[mabel tan]] and [[armita ghahremani]].

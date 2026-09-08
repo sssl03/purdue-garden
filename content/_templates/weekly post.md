@@ -1,22 +1,27 @@
 ---
 created:
 ---
+### teaching work
 
-#### work: teaching
+#### [[exlab (26.3FA)]]
 
-[[exlab (26.3FA)]]: 
+#### [[uxfun (26.3FA)]]
 
-[[uxfun (26.3FA)]]: 
+feedback from [[sienna wheeler]]:
 
-[[digital garden grant]]: 
+#### [[behaviour hacking]]
 
-[[student academic integrity (research)]]: 
-#### work: logistical
+#### [[digital garden grant]]
 
-#### physical activity
+#### [[student academic integrity (research)]]
 
-#### absorbing
+#### logistical
+### absorbing
 
-#### writing
+#### [[impact course]]
 
-#### other
+### writing
+
+### physical activity
+
+### other
