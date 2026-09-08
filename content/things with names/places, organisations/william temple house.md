@@ -1,0 +1,1 @@
+charitable student housing in earl's court, [[london]]. i lived there for three years (2015–18). i spent my first year there as a student, and then [[jennifer haugan]] and i lived there for two additional years as senior residents.

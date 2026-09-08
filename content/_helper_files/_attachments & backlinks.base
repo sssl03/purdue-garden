@@ -9,4 +9,4 @@ views:
       - file.backlinks
     sort:
       - property: file.backlinks
-        direction: DESC
+        direction: ASC

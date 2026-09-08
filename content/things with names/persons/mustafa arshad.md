@@ -1,0 +1,1 @@
+graduate student of [[purdue ux design]] over 2024–26. was my teaching assistant in [[(course) ux fundamentals]] courses i taught during my first year at purdue (2025–26). — 20261013

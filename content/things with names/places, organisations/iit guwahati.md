@@ -1,0 +1,1 @@
+completed my undergraduate study (bachelor of design) here. 2007–11.

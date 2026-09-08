@@ -1,0 +1,1 @@
+we studied design at [[iit guwahati]] together. he's been a long-time collaborator on most of my projects down the years ; and also advised me at key points in life (to get me out of my ~~comfort zone~~ laziness whenever i resisted newer technologies for too long). 

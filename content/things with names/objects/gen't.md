@@ -1,0 +1,1 @@
+short for 'generative tool'. i will use this term to include llm's also, because ultimately llm's are used (through an interface) as a *tool* to *generate* something. —20261012

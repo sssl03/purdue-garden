@@ -1,0 +1,1 @@
+after floating it as a [[ritual design (26.1SP)]] course in spring 2026, i turned [[(course) behaviour hacking]] into a research-project under [[ourscholars]] for 2026–27; i subsequently received one year's funding for 2 students, [[mabel]] and [[armita]].

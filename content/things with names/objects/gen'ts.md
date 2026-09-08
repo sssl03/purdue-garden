@@ -1,0 +1,1 @@
+generative tools and llm's. plural of [[gen't]].

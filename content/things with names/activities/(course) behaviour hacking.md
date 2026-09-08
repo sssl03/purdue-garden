@@ -1,0 +1,1 @@
+i use 'behaviour hacking' as a lens through which students can approach human-centred design. i'm building on my 2023 [ritual design](https://setwrite.in/teaching/202307-anant-rituals.html) course at [[anant university]], and my belief that [emotion is the working material of design](https://setwrite.in/reflections/202307-what-do-designers-work-with.html). —20261013

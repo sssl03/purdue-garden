@@ -1,0 +1,1 @@
+[[john fass]] and [[kevin walker]] wrote a paper introducing this term when i was at [[the rca]]. one of the projects i did as a student back then is included in the paper. read: https://researchonline.rca.ac.uk/2594/ —20261013

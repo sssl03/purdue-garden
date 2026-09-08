@@ -1,0 +1,1 @@
+elective course taught in spring 2026. as part of my larger pursuit of [[(course) behaviour hacking]].

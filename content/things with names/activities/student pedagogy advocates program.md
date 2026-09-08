@@ -1,0 +1,1 @@
+a programme at [[purdue]] where a non-enrolled student attends a class and then shares feedback (from students' point of view) with the teacher to help them teach better. led by [[dan guberman]]. — 20260918

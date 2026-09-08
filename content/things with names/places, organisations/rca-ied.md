@@ -1,0 +1,1 @@
+'information experience design' programme at [[the rca]], which i was a part of during my master study (2014–16).

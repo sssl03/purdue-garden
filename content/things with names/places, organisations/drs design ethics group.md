@@ -1,0 +1,1 @@
+special interest group on 'design ethics' within the [[design research society]].

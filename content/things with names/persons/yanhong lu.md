@@ -1,0 +1,1 @@
+illustrator. phd student in [[purdue acc]]. my teaching assistant in [[uxfun (26.3FA)]]. he was also a student in [[ritual design (26.1SP)]]. — 20261013

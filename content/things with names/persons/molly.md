@@ -1,0 +1,1 @@
+i'm still rather proud of having asked her out on college radio. many years later, she sent me a passage from [[a gentleman in moscow (book, amor towles)]], for which i am grateful. — 20260927

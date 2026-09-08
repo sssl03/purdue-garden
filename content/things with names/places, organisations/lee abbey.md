@@ -1,0 +1,1 @@
+student housing in kensington, [[london]]. i lived there for one year (2014–15), and met [[anna unger]] there.

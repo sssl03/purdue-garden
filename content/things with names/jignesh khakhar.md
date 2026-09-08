@@ -1,1 +1,0 @@
- jignesh wore different hats for [[nmd-nid]] when i began visiting the programme during the covid-pandemic ; but, by and large, the programme was shaped by him. 
