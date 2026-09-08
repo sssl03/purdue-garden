@@ -12,7 +12,7 @@
 			- `analytics: null`
 			- `locale: en-GB`
 2. **obsidian**:
-	- note: track content content-changes in a separate `update-content` branch (within the repo).
+	- note: track content content-changes in a separate `main` branch (within the repo).
 	- download [obsidian](https://obsidian.md/) and open it.
 	- open the `content` folder as an obsidian-vault.
 		- this will create a `.obsidian` folder inside our `garden/obsidian` folder; and the vault will open in obsidian.
@@ -47,7 +47,7 @@ at this point, this is good to know:
 - however, if we plan to use quartz to emit the files to a website — which, we do, because it's easy for students to pick this up and start writing-in-public *quickly* — , then it is best to use obsidian because (among other reasons) quartz is optimised for the *flavour of markdown* that obsidian uses.
 
 instructions for writing:
-- make sure that you're in the `update-content` branch.
+- make sure that you're in the `main` branch.
 - the vault is open in obsidian. so, *write!*
 	- read about basic [markdown syntax](https://quartz.jzhao.xyz/getting-started/authoring-content#syntax) you can use while creating notes. 
 	- i suggest updating  `index.md`. (when we _emit_ the website, quartz will turn this into your website's home page.) 
@@ -80,19 +80,18 @@ tips:
 			- open your terminal in the `quartz` folder.
 			- Run: `npm install @quartz-themes/default`
 			- This will update your `package.json` and `package-lock.json` files.
-	- create a `emit` branch. 
+	- create a `main` branch. 
 		- whenever changes are made,
-			- commit changes made to quartz into `custom-quartz`
-			- commit all content updates into `update-content`
-			- and then merge the updated branch into `emit`.
+			- commit changes made to quartz into `custom-quartz` and merge those into `main`.
+			- commit all content updates into `main`.
 	- setup github-actions
 		- create `deploy.yml`. [instructions](https://quartz.jzhao.xyz/hosting#github-pages).
 		- update `deploy.yml`: 
-			- since we want the website to auto-update on any update (whether to quartz or content), change the default `v5` branch to `emit`.
+			- since we want the website to auto-update on any update (whether to quartz or content), change the default `v5` branch to `main`.
 - on github: in the repo's `settings`, 
-	- (optional) change the default branch from `v5` to `emit`.
+	- (optional) change the default branch from `v5` to `main`.
 	- under `pages`, ensure that:
 		- github pages are enabled.
 		- source is `github actions`. // there's no need to select any workflow.
-	- under `environments`, go into the `github-pages` environment, and change the allowed branch from `v5` to `emit`
-- locally: merge changed branches into `emit`; push. on github: check github actions. if it completes successfully, the website will be emitted to github-pages.
+	- under `environments`, go into the `github-pages` environment, and change the allowed branch from `v5` to `main`
+- locally: merge `custom-quartz` changes into `main`, and also commit content changes to `main`; push. on github: check github actions. if it completes successfully, the website will be emitted to github-pages.
