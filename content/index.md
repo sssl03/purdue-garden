@@ -1,5 +1,5 @@
 ---
-title: shobhan's log; at purdue; 2026–
+title: hello.
 socialDescription: log, starting fall 2026, kept during my work as a clinical faculty of design at purdue university.
 ---
 my name is shobhan, and starting from fall 2026, i've kept this log during my work as a clinical faculty of design at [[purdue]].
