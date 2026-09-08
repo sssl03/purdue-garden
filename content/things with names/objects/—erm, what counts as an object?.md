@@ -1,0 +1,2 @@
+- specific cameras or backpacks (etc). for example: when *a* camera becomes *that* camera, it will likely end up in this list.
+- songs, films, books that were meaningful to me, and are likely to come up at several points in my life.

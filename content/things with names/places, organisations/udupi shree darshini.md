@@ -1,0 +1,1 @@
+udipi restaurant in [[ahmedabad]] that i was introduced to by [[aratrik]]. i have breakfast here on sunday mornings at 8:30 am sharp whenever i'm in the city.

@@ -1,0 +1,1 @@
+sometimes, people affect you in so many unexpected ways that it is impossible to explain who they are to others. anna, is such person.

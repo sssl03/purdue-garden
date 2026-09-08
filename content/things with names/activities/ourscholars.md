@@ -1,0 +1,1 @@
+'ourscholars' is a year-long programme, supported by [[purdue's office of undergraduate research]], where undergraduate students work with faculty one-on-one over two semesters.

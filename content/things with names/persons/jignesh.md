@@ -1,0 +1,1 @@
+ jignesh khakhar. wore many hats at [[national institute of design]] when i began visiting the [[nmd-nid]] programme during the covid-pandemic. by and large, [[nmd-nid]] was shaped by him. — 20260918

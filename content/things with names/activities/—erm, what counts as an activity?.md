@@ -1,0 +1,5 @@
+- projects
+- courses
+- conferences
+- even sports?
+- worldy events, perhaps? (like [[the covid pandemic]])

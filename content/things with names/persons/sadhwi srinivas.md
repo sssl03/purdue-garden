@@ -1,0 +1,1 @@
+we were students at [[iit guwahati]] together. she was in the computer science programme, and i in design. at one point, i was leading a small writing team, and she signed-up to it. she was quite shy, but boy could she write. if she were to write a book, i shall willingly read it; cover-to-cover.
