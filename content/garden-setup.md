@@ -7,10 +7,11 @@
 		- we will initialise quartz using the `obsidian` template.
 	- create a branch `custom-quartz` branch to track all changes to quartz.
 	- customise quartz by editing [configurations](https://quartz.jzhao.xyz/configuration) in `quartz.config.yaml`. 
-		- definitely update `pageTitle`
+		- update `pageTitle`
 		- optional updates:
 			- `analytics: null`
 			- `locale: en-GB`
+			- customise plugins: i disable `graph` and `footer`
 2. **obsidian**:
 	- note: track content content-changes in a separate `main` branch (within the repo).
 	- download [obsidian](https://obsidian.md/) and open it.
