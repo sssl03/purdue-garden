@@ -20,7 +20,7 @@
 		- make folders
 		- set locations for:
 			- page templates: `_templates` 
-				- also make this update in quartz's config file (`quartz.config.yaml`): under `configuration: ignorePatterns:`, rename `templates` to `_templates`
+				- also make this update in quartz's config file (`quartz.config.yaml`): first switch to the `custom-quartz` git-branch, then open the file, and under `configuration: ignorePatterns:`, rename `templates` to `_templates`. 
 			- attachments (images, files, etc): `_attachments`
 			- daily-notes: `log`
 			- regular notes: `notes`
