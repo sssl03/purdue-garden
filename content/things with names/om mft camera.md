@@ -1,0 +1,1 @@
+[olympus om-d e-m1 mark iii](https://en.wikipedia.org/wiki/Olympus_OM-D_E-M1_Mark_III), purchased from [[dan triplett]].

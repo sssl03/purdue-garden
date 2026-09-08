@@ -1,1 +1,1 @@
-[[debanshi]]'s friend. now, mine too. enjoys photography, and badminton. also knows [[nipa paka]]. ([[20260813]])
+[[debanshi]]'s friend. now, mine too. enjoys photography, and badminton. also knows [[nipa paka]]. —20260813

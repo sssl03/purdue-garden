@@ -1,0 +1,1 @@
+textile design studio, [[ahmedabad]]. see: [tilla.in](https://tilla.in). founded by [[aratrik]]. where [[jisha]] works too. —20260908

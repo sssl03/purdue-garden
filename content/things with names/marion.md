@@ -1,0 +1,1 @@
+a dear pen friend. belgian. we'd bumped into each other for a few minutes in bruges in many years ago, and began writing letters to-and-fro a few years after.
