@@ -3,9 +3,9 @@ created: 2026-06-28
 ---
 two days in [[bangalore]].
 
-spent time with [[shruti]] when she was unwell; played lots of [sequence](https://en.wikipedia.org/wiki/Sequence_(game)). [[nilay]] also came to visit. both him and shruti spoke about being exhausted with the dating 'scene', and so i shared stories from my experiences meeting people; the main idea behind being happy (in my view) is to be optimistic but not force expectations, find peace within oneself instead of looking for it in another, and give it your best shot no matter how many times you fail.
+spent time with [[shruti]] when she was unwell; played lots of [sequence](https://en.wikipedia.org/wiki/Sequence_(game)). [[nilay]] also came to visit. both him and shruti spoke about being exhausted with the dating 'scene', and so i shared stories of my experiences meeting people; the main idea behind being happy (in my view) is to be optimistic but not force expectations, find peace within oneself instead of looking for it in another, and give it your best shot no matter how many times things fail.
 
-went to [[kasavanahalli lake]]. managed to run 10 km in an hour, but i think the time was down to the new running shoes (else i'd have been at-least 5 minutes slower). had breakfast at [[arogya]]. got some nice photographs with the [[om mft camera]] while in a rickshaw. met [[vivek shrinivasan]], and photographed [[sam-man]]. took [[miss]] and shruti to the pool.
+went to [[kasavanahalli lake]]. managed to run 10 km in an hour, but i think the time was down to the new running shoes (else i'd have been at-least 5 minutes slower). had breakfast at [[arogya]]. got some nice photographs with the [[olympus camera]] while in a rickshaw. met [[vivek shrinivasan]], and photographed [[sam-man]]. took [[miss]] and shruti to the pool.
 
 ![[260626-201436-_6260011.jpg]]
 ![[260626-205400-_6260313.jpg]]
