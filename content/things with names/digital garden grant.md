@@ -1,0 +1,1 @@
+a small grant i received for summer 2026, to explore a way to encourage students to make digital gardens ([websearch](https://duckduckgo.com/?q=digital+gardens+and+the+make+in+public+ethos&ia=web)) and make-in-public.

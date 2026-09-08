@@ -1,0 +1,1 @@
+[[(course) ux fundamentals]] taught in fall 2026. course code `CGT 17208`. 2 sections of ~20 students each.

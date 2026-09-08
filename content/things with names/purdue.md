@@ -1,0 +1,1 @@
+university in usa where i began working at a teacher in the [[purdue ux design]] programme from 2025 onward.
