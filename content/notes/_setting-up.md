@@ -20,6 +20,7 @@
 		- make folders
 		- set locations for:
 			- page templates: `_templates` 
+				- also make this update in quartz's config file (`quartz.config.yaml`): under `configuration: ignorePatterns:`, rename `templates` to `_templates`
 			- attachments (images, files, etc): `_attachments`
 			- daily-notes: `log`
 			- regular notes: `notes`
@@ -57,6 +58,7 @@ tips:
 - ==do not add any private items.== while notes marked as `draft: true` or `publish: false` may—depending on the plugins you use—not get emitted to the final website, **all your content** (and every version of it) will still sit among the commits in a public git repository.
 - about *tags*: 
 	- unlike logseq, obsidian doesn't offer pages for tags. also: it is ~~not possible~~ *very inconvenient* to rename a tag (say, change `#ideas` to `#thoughts`). so, i don't like using tags (or have to be very disciplined if i must use them). 
+- when we add images but later delete them (or choose not to use them in any post), those images stay in the attachments directory and take up unnecessary space. we can create a `.base` file to view which attachments don't have any backlinks, and use it to prune such files. i make this `prune-orphans.base` file in a `_helper_files` folder. i also add this folder to `quartz.config.yml` (under `configurations: ignorePatterns`) so that the folder doesn't get emitted to the website.
 
 ### emit locally
 
