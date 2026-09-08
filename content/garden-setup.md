@@ -1,10 +1,11 @@
-
+detailed notes on how i set-up and configure this *digital garden*.
 ### install and configure
 
 1. **quartz**:
 	- get [quartz](https://quartz.jzhao.xyz/), and follow the [installation](https://quartz.jzhao.xyz/getting-started/installation) steps. keep this in mind:
-		- if using a free github account, our github-repo needs to be `public`, else github won't allow us to emit the website to 'github pages'.
-		- instead of using the default `v5` branch, create a `main` branch to track all changes (customisations to quartz and obsidian, and content updates) to the repo. ==always work in `main`.==
+		- if using a free github account, our github-repo needs to be `public`, else github won't allow us to emit the website to 'github pages'. 
+			- if you're new to git, [learngitbranching](https://learngitbranching.js.org/) is a good place to start before diving into this project.
+		- (optional) instead of using the default `v5` branch, create a `main` branch to track all changes (customisations to quartz and obsidian, and content updates) to the repo. this is a _me_ thing ; i like to segregate things ; it creates extra work, but usually helps me recover from mistakes or tidy-up messes better. if you're new to coding, git, and what-not, skip this; just commit to quartz's default `v5` branch, and ignore any instructions (below) where i ask you to replace `v5` by `main`. 
 		- initialise quartz using the `obsidian` template.
 	- customise quartz by editing [configurations](https://quartz.jzhao.xyz/configuration) in `quartz.config.yaml`. 
 		- update `pageTitle`
@@ -19,18 +20,18 @@
 	- open the `content` folder as an obsidian-vault.
 		- this will create a `.obsidian` folder inside our `garden/obsidian` folder; and the vault will open in obsidian.
 	- customise obsidian vault's preferences:
-		- make folders
-		- set locations for:
-			- page templates: `_templates` 
-				- also make this update in quartz's config file. open `quartz.config.yaml`, and under `configuration: ignorePatterns:`, rename `templates` to `_templates`. 
-			- attachments (images, files, etc): `_attachments`
-			- daily-notes: `log`
-			- regular notes: `notes`
-		- create the folders: `_templates`, `_attachments`, `log` and `notes`
-		- for daily-notes,
-			- set date format to `custom`, and change the syntax from `YYYY-MM-DD` to `YYYYMMDD`
-		- in `file recovery`
-			- increase `history length` (eg. 1000)
+		- (these customisations are a *me* thing, and very-much optional. please stick to obsidian's vanilla setup.)
+			- set locations for:
+				- page templates: `_templates` 
+					- also make this update in quartz's config file. open `quartz.config.yaml`, and under `configuration: ignorePatterns:`, rename `templates` to `_templates`. 
+				- attachments (images, files, etc): `_attachments`
+				- daily-notes: `log`
+				- regular notes: `notes`
+			- create corresponding folders: `_templates`, `_attachments`, `log` and `notes`. (if correctly-named folder don't exist, new notes just go into the root folder next to `index.md`.)
+			- for daily-notes,
+				- set date format to `custom`, and change the syntax from `YYYY-MM-DD` to `YYYYMMDD`
+			- in `file recovery`
+				- increase `history length` (eg. 1000)
 		- in `core plugins`, 
 			- enable `slash commands`
 			- enable `daily notes`
@@ -52,7 +53,7 @@ instructions for writing:
 - the vault is open in obsidian. so, *write!*
 	- read about basic [markdown syntax](https://quartz.jzhao.xyz/getting-started/authoring-content#syntax) you can use while creating notes. 
 	- i suggest updating  `index.md`. (when we _emit_ the website, quartz will turn this into your website's home page.) keep the file-name as `index`, but add frontmatter like `title: "hello."` to the file.
-- from time to time, commit changes to git.
+- from time to time, commit **and push** changes to git. make it a habit.
 
 tips:
 - you can copy over existing files (from an existing obsidian vault, or just any folder in which you had notes in a suitable format). paste those items into appropriate sub-folders (eg. `log`, `notes`, etc).
@@ -62,16 +63,18 @@ tips:
 	- also, the way quartz currently emits tags on a page is just ugly. so.
 - when we add images but later delete them (or choose not to use them in any post), those images stay in the attachments directory and take up unnecessary space. we can create a `.base` file to view which attachments don't have any backlinks, and use it to prune such files. so, i make a `prune-orphans.base` file in a `_helper_files` folder. i also ask quartz to not emit this folder to the website by adding it to `quartz.config.yml` (under `configurations: ignorePatterns`).
 
+sidenote: i keep this `garden-setup.md` file in the root folder, next to `index.md`.
+
 ### emit locally
 
 - serve (preview) the website: 
 	- in the terminal, type: `npx quartz build --serve`. 
 	- the site will be live on  [http://localhost:8080](http://localhost:8080)
-- to speed up build/serve times, the [custom og images](https://quartz.jzhao.xyz/plugins/CustomOgImages) plugin can be disabled in the `quartz.config.ts` file (under `plugins` > `emitters`).
+- (optional) to speed up build/serve times, the [custom og images](https://quartz.jzhao.xyz/plugins/CustomOgImages) plugin can be disabled in the `quartz.config.ts` file (under `plugins` > `emitters`).
 
 ### emit to github pages
 
-(note: regularly commit and push changes to github.)
+(i repeat: regularly commit **and push** changes to github.)
 
 - on github: in the repo's `settings`, under `pages`, ensure that:
 	- github pages are enabled.
