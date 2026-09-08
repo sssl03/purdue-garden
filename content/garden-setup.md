@@ -11,7 +11,7 @@
 		- optional updates:
 			- `analytics: null`
 			- `locale: en-GB`
-			- customise plugins: i disable `graph` and `footer`
+			- disable the `footer` plugin (till i figure out how to customise it properly)
 2. **obsidian**:
 	- note: track content content-changes in a separate `main` branch (within the repo).
 	- download [obsidian](https://obsidian.md/) and open it.
