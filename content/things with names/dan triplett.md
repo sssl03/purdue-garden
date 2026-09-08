@@ -1,0 +1,1 @@
+daniel triplett. clinical faculty, game development programme, [[acc]]. professional photographer. —20260908

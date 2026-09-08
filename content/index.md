@@ -1,7 +1,8 @@
 ---
-title: "log: purdue; 26–27"
+title: shobhan's log; at purdue; 2026–
+socialDescription: log, starting fall 2026, kept during my work as a clinical faculty of design at purdue university.
 ---
-last semester, i encouraged my graduate students to make-in-public during their capstone projects, and invited [[arjun-itp]] introduced them to 'digital gardening' through obsidian–quartz.  students mostly used notion or wix (etc), and i don't recall any of them publicising their logs; nonetheless, them writing _something_ helped me guide them better. 
+last semester, i encouraged my graduate students to make-in-public during their capstone projects, and invited [[arjun-itp]] introduce them to 'digital gardening' through obsidian–quartz.  students mostly used notion or wix (etc), and i don't recall any of them publicising their logs; nonetheless, them writing _something_ helped me guide them better. 
 
 while reflecting on his own garden, arjun wrote so: "i realized _\[sic\]_ the importance of writing (and sharing) in public. i would have random conversations with people, just because they read a thought that i posted on this blog; or see someone figure out an electronic-component by going through my experiments-log." 
 
