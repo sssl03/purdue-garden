@@ -1,0 +1,1 @@
+school of applied & creative computing: a department in the [[purdue polytechnic]].
