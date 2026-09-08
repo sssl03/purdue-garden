@@ -2,18 +2,19 @@
 ### install and configure
 
 1. **quartz**:
-	- get [quartz](https://quartz.jzhao.xyz/), and follow the [installation](https://quartz.jzhao.xyz/getting-started/installation) steps. 
+	- get [quartz](https://quartz.jzhao.xyz/), and follow the [installation](https://quartz.jzhao.xyz/getting-started/installation) steps. keep this in mind:
 		- if using a free github account, our github-repo needs to be `public`, else github won't allow us to emit the website to 'github pages'.
-		- we will initialise quartz using the `obsidian` template.
-	- create a branch `custom-quartz` branch to track all changes to quartz.
+		- instead of using the default `v5` branch, create a `main` branch to track all changes (customisations to quartz and obsidian, and content updates) to the repo. ==always work in `main`.==
+		- initialise quartz using the `obsidian` template.
 	- customise quartz by editing [configurations](https://quartz.jzhao.xyz/configuration) in `quartz.config.yaml`. 
 		- update `pageTitle`
 		- optional updates:
 			- `analytics: null`
 			- `locale: en-GB`
-			- disable the `footer` plugin (till i figure out how to customise it properly)
+			- plugins:
+				- `footer`: disable (or customise)
+				- i want to disable the `graph` also, but it seems to make the backlinks feature malfunction *somewhat*, so i leave it enabled.
 2. **obsidian**:
-	- note: track content content-changes in a separate `main` branch (within the repo).
 	- download [obsidian](https://obsidian.md/) and open it.
 	- open the `content` folder as an obsidian-vault.
 		- this will create a `.obsidian` folder inside our `garden/obsidian` folder; and the vault will open in obsidian.
@@ -21,7 +22,7 @@
 		- make folders
 		- set locations for:
 			- page templates: `_templates` 
-				- also make this update in quartz's config file (`quartz.config.yaml`): first switch to the `custom-quartz` git-branch, then open the file, and under `configuration: ignorePatterns:`, rename `templates` to `_templates`. 
+				- also make this update in quartz's config file. open `quartz.config.yaml`, and under `configuration: ignorePatterns:`, rename `templates` to `_templates`. 
 			- attachments (images, files, etc): `_attachments`
 			- daily-notes: `log`
 			- regular notes: `notes`
@@ -45,13 +46,12 @@
 at this point, this is good to know: 
 - most files in the obsidian folder will be `.md` files. 
 - while obsidian is a convenient tool for writing and managing your content, these files can be opened/edited using any text-editor. 
-- however, if we plan to use quartz to emit the files to a website — which, we do, because it's easy for students to pick this up and start writing-in-public *quickly* — , then it is best to use obsidian because (among other reasons) quartz is optimised for the *flavour of markdown* that obsidian uses.
+- however, if we plan to use quartz to emit the files to a website — which, we do, because it's easy for students to pick this up and start writing-in-public *quickly* — , then obsidian is convenient because (among other reasons) quartz is optimised for the *flavour of markdown* that obsidian uses.
 
 instructions for writing:
-- make sure that you're in the `main` branch.
 - the vault is open in obsidian. so, *write!*
 	- read about basic [markdown syntax](https://quartz.jzhao.xyz/getting-started/authoring-content#syntax) you can use while creating notes. 
-	- i suggest updating  `index.md`. (when we _emit_ the website, quartz will turn this into your website's home page.) 
+	- i suggest updating  `index.md`. (when we _emit_ the website, quartz will turn this into your website's home page.) keep the file-name as `index`, but add frontmatter like `title: "hello."` to the file.
 - from time to time, commit changes to git.
 
 tips:
@@ -59,7 +59,8 @@ tips:
 - ==do not add any private items.== while notes marked as `draft: true` or `publish: false` may—depending on the plugins you use—not get emitted to the final website, **all your content** (and every version of it) will still sit among the commits in a public git repository.
 - about *tags*: 
 	- unlike logseq, obsidian doesn't offer pages for tags. also: it is ~~not possible~~ *very inconvenient* to rename a tag (say, change `#ideas` to `#thoughts`). so, i don't like using tags (or have to be very disciplined if i must use them). 
-- when we add images but later delete them (or choose not to use them in any post), those images stay in the attachments directory and take up unnecessary space. we can create a `.base` file to view which attachments don't have any backlinks, and use it to prune such files. i make this `prune-orphans.base` file in a `_helper_files` folder. i also add this folder to `quartz.config.yml` (under `configurations: ignorePatterns`) so that the folder doesn't get emitted to the website.
+	- also, the way quartz currently emits tags on a page is just ugly. so.
+- when we add images but later delete them (or choose not to use them in any post), those images stay in the attachments directory and take up unnecessary space. we can create a `.base` file to view which attachments don't have any backlinks, and use it to prune such files. so, i make a `prune-orphans.base` file in a `_helper_files` folder. i also ask quartz to not emit this folder to the website by adding it to `quartz.config.yml` (under `configurations: ignorePatterns`).
 
 ### emit locally
 
@@ -81,10 +82,7 @@ tips:
 			- open your terminal in the `quartz` folder.
 			- Run: `npm install @quartz-themes/default`
 			- This will update your `package.json` and `package-lock.json` files.
-	- create a `main` branch. 
-		- whenever changes are made,
-			- commit changes made to quartz into `custom-quartz` and merge those into `main`.
-			- commit all content updates into `main`.
+	- keep committing changes to the `main` branch. 
 	- setup github-actions
 		- create `deploy.yml`. [instructions](https://quartz.jzhao.xyz/hosting#github-pages).
 		- update `deploy.yml`: 
@@ -94,5 +92,5 @@ tips:
 	- under `pages`, ensure that:
 		- github pages are enabled.
 		- source is `github actions`. // there's no need to select any workflow.
-	- under `environments`, go into the `github-pages` environment, and change the allowed branch from `v5` to `main`
-- locally: merge `custom-quartz` changes into `main`, and also commit content changes to `main`; push. on github: check github actions. if it completes successfully, the website will be emitted to github-pages.
+	- under `environments`, go into the `github-pages` environment, and change the allowed branch from `v5` to `main`.
+- locally: commit all changes to `main`; push. on github: check github actions. if it completes successfully, the website will be emitted to github-pages.
