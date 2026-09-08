@@ -9,8 +9,9 @@ configuration:
   baseUrl: sssl03.github.io/purdue-garden
   ignorePatterns:
     - private
-    - templates
+    - _templates
     - .obsidian
+    - _helper_files
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
