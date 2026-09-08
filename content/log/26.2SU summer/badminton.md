@@ -1,3 +1,7 @@
+---
+created: 2026-08-13
+---
+
 played badminton with [[debanshi]], [[gautam]], [[miss]], [[raju mama]] at-least once a week through the summer. mostly at [[andheri sports complex]]. did not enjoy the men there trying to bully us and dissuade us from playing (and basically act territorial), but we managed. [[chintan]] and [[nipa paka]] also joined us from time to time. 
 
 ![[260601-205617-002.jpg]]
