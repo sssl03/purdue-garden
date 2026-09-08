@@ -1,0 +1,1 @@
+purdue student who is not enrolled in but still attends my [[uxfun (26.3FA)]] classes, so that she can give me feedback (from students' point of view) at the end of every week. she does this as part of the [[student pedagogy advocates program]]. — 20260918

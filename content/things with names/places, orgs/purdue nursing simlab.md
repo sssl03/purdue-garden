@@ -1,0 +1,1 @@
+a simulation lab at [[purdue]]'s nursing department, filled with [[laerdal]] robots.

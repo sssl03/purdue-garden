@@ -1,0 +1,1 @@
+royal college of art, london. i completed my master study here; 2014–16.

@@ -1,0 +1,1 @@
+the IT support folk at [[purdue]]. they help source computers and network equipment, fix them, install software on software, etc. — 20260925.
