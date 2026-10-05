@@ -1,0 +1,1 @@
+clinical faculty. [[purdue acc]]. married to carrie, whose father grows pumpkins and gives them away to people every year. —20261005

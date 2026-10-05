@@ -9,7 +9,7 @@ created:
 
 feedback from [[sienna wheeler]]:
 
-#### [[behaviour hacking]]
+#### [[behaviour hacking (26–27)]]
 
 #### [[digital garden grant]]
 
@@ -23,5 +23,7 @@ feedback from [[sienna wheeler]]:
 ### writing
 
 ### physical activity
+
+### social
 
 ### other
