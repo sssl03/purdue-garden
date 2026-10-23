@@ -1,0 +1,1 @@
+[self-determination theory](https://en.wikipedia.org/wiki/Self-determination_theory). ~ autonomy, competence, relatedness.

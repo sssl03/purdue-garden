@@ -1,0 +1,1 @@
+lassly. miniature maker. i'm glad we met when, and for as short as we did. [instagram](https://www.instagram.com/iamlassly/). —20261026

@@ -1,0 +1,1 @@
+faculty, themed entertainment design programme, [[purdue acc]]. lives and works in [[indianapolis]]. —20260908

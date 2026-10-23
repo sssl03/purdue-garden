@@ -1,0 +1,1 @@
+designer. one of the first residents to work with [[slowstudio]] during the pandemic. now lives in the netherlands. —20261026

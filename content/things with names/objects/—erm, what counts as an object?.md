@@ -1,3 +1,3 @@
 - specific cameras or backpacks (etc). when *a* camera becomes *that* camera (eg. [[olympus camera]]), it will likely end up in this list.
-- songs, films (eg. [[terry pratchett's hogfather|hogfather]]), books or quotes (eg. [[a gentleman in moscow (book, amor towles)|choosing a philosophy]]) that were meaningful to me, and are likely to come up at several points in my life.
+- songs, films (eg. [[terry pratchett's hogfather|hogfather]]), books or quotes (eg. [[a gentleman in moscow (book, amor towles)|choosing a philosophy]] or [["do small things with great love"]]) that were meaningful to me, and are likely to come up at several points in my life.
 - concepts like [[decomputation]].

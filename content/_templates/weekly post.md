@@ -12,6 +12,7 @@ feedback from [[sienna wheeler]]:
 #### [[behaviour hacking project (26–27)]]
 
 #### logistical
+#### other teaching work
 ### other projects 
 
 #### [[digital garden grant]]

@@ -1,0 +1,1 @@
+where [[pink floyd's 'pulse' concert (1994)]] happened, and where [[william temple house]] is located. —20161021

@@ -1,0 +1,1 @@
+worked for a long time on intercultural learning activities at purdue. ([linkedin](https://www.linkedin.com/in/annette-benson-stratcomm).) close to retirement when we met in fall 2026. one of my mentors in the [[impact course]]. i enjoy speaking with her ; i think she *gets* me, and i'm really glad to have her as a mentor. —20261026

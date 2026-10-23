@@ -1,0 +1,1 @@
+illustrated book / graphic novel. featuring a migrant finding his feet in a new land. https://en.wikipedia.org/wiki/The_Arrival_(graphic_novel). i believe [[jisha]] has a copy of this book. —20261026

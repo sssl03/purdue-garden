@@ -1,0 +1,1 @@
+chapter 3 from john dewey's 1934 book [art as experience](https://en.wikipedia.org/wiki/Art_as_Experience). i get bored about halfway into the chapter, but that's enough for me.

@@ -1,0 +1,1 @@
+we studied at [[iit guwahati]] together; and were hostel-neighbours for four years. studied mechanical engineering at [[purdue]], and has been working in the united states for quite some time. —20261026

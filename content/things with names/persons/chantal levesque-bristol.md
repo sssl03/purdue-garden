@@ -1,0 +1,1 @@
+works with the center for instructional excellence. introduced us to motivational framework for learning and [[self-determination theory]] in [[impact course]]. —20261026
