@@ -1,0 +1,1 @@
+graduate student of [[purdue ux design]] over 2024–26. in mid-2024, she'd kindly made time to speak with me when i was anxious about moving from india to a university town in the united states; i remain thankful to her for that. was my teaching assistant in a course i taught during my first year at purdue (2025–26). — 20261021
